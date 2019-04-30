@@ -4,4 +4,4 @@ Go implementation of [BambooHR API](https://www.bamboohr.com/api/documentation/)
 
 ## Documentation
 
-Find documentation with of examples at [GoDoc](https://godoc.org/github.com/AkihikoITOH/bamboohr.go)
+Find documentation with examples at [GoDoc](https://godoc.org/github.com/AkihikoITOH/bamboohr.go)
